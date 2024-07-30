@@ -42,6 +42,6 @@ export function constructMetadata({
       creator: '@kipscoding',
     },
     icons,
-    metadataBase: new URL("https://casecobra.vercel.app/")
+    metadataBase: new URL("https://casecobra-gold.vercel.app/")
   }
 }
